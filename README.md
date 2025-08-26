@@ -53,9 +53,10 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=datahub-project&repo=datahub&theme=radical&show_owner=true&cache_seconds=30&bg_color=0d1117&border_color=ff4444&title_color=ff4444&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
   </a>
 
-  <a href="https://github.com/afrochic/IoT-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afrochic&repo=IoT-App&theme=radical&show_owner=true&cache_seconds=random&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=00e676&hide_border=false&border_radius=15" />
-  </a>
+ <a href="https://github.com/afrochic/afrochicChat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afrochic&repo=afrochicChat&theme=radical&show_owner=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=00e676&hide_border=false&border_radius=15" />
+</a>
+
 
   <a href="https://github.com/afrochic/diana-portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=afrochic&repo=diana-portfolio&theme=radical&show_owner=true&cache_seconds=random&bg_color=0d1117&border_color=ffcc00&title_color=ffcc00&text_color=ffffff&icon_color=ffcc00&hide_border=false&border_radius=15" />
@@ -98,6 +99,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afrochic&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views" />
 </p>
+
 
 
 
