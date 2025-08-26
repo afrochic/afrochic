@@ -36,25 +36,18 @@
 ## 🎵 Music: Lovers Rock Reggae Mix (1990–2023)
 
 <p align="center">
-  <!-- Clickable GIF/cover linking to playlist -->
-  <a href="https://open.spotify.com/playlist/0AniQgHBlNsdSQJ5KxRQpg" target="_blank" rel="noopener noreferrer">
-    <!-- GIF looks like a vinyl or music banner — keeps it lively without API setup -->
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Lovers Rock playlist" width="600" />
-  </a>
-</p>
-
-<p align="center">
   <strong>Give this playlist a listen:</strong><br />
   <a href="https://open.spotify.com/playlist/0AniQgHBlNsdSQJ5KxRQpg" target="_blank" rel="noopener noreferrer">
     🎧 Lovers Rock Reggae Mix (1990–2023) — Click to open on Spotify
   </a>
-  <br />
+  <br /><br />
   <a href="https://open.spotify.com/playlist/0AniQgHBlNsdSQJ5KxRQpg" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
   </a>
 </p>
 
 ---
+
 
 ## 🎨 Fun Animations  
 
@@ -107,3 +100,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afrochic&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views" />
 </p>
+
