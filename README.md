@@ -1,11 +1,21 @@
-<!-- Typing SVG Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=cc0000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Diana+Musee;Software+Engineer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;Building+Impactful+Platforms+for+Africa+%F0%9F%8C%8D" />
-</h1>
+<div align="center">  
 
-<p align="center">
-  💻 Software Engineer | 🌍 Based in Kenya | 📊 Data Science Enthusiast
-</p>
+  <!-- Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Diana%20Musee&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20•%20ML%20Engineer%20•%20Developer&descSize=20&descAlignY=55" />  
+  
+  <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
+
+   <!-- GitHub stats -->
+   <img height="190" src="https://github-readme-stats.vercel.app/api?username=afrochic&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=30&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ff0000&hide_border=false&border_radius=15" />
+
+   <!-- Top languages -->
+   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrochic&layout=compact&langs_count=12&theme=radical&cache_seconds=random&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&hide_border=false&border_radius=15&card_width=320" />
+  </div>  
+  
+  <!-- Streak stats -->
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=afrochic&theme=radical&background=000000&stroke=ffffff&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&dates=aaaaaa&border=ffffff" />
+  
+</div>
 
 ---
 
@@ -33,41 +43,27 @@
 
 ---
 
-## 🎵 Music: Lovers Rock Reggae Mix (1990–2023)
+## ⚡ Featured Projects  
 
-<p align="center">
-  <strong>Give this playlist a listen:</strong><br />
-  <a href="https://open.spotify.com/playlist/0AniQgHBlNsdSQJ5KxRQpg" target="_blank" rel="noopener noreferrer">
-    🎧 Lovers Rock Reggae Mix (1990–2023) — Click to open on Spotify
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
+
+  <a href="https://github.com/datahub-project/datahub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datahub-project&repo=datahub&theme=radical&show_owner=true&cache_seconds=30&bg_color=0d1117&border_color=ff4444&title_color=ff4444&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
   </a>
-  <br /><br />
-  <a href="https://open.spotify.com/playlist/0AniQgHBlNsdSQJ5KxRQpg" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
+
+  <a href="https://github.com/afrochic/IoT-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afrochic&repo=IoT-App&theme=radical&show_owner=true&cache_seconds=random&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=00e676&hide_border=false&border_radius=15" />
   </a>
-</p>
+
+  <a href="https://github.com/afrochic/diana-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afrochic&repo=diana-portfolio&theme=radical&show_owner=true&cache_seconds=random&bg_color=0d1117&border_color=ffcc00&title_color=ffcc00&text_color=ffffff&icon_color=ffcc00&hide_border=false&border_radius=15" />
+  </a>
+
+</div>  
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afrochic&theme=radical&cache_seconds=random" />
 
 ---
-
-
-## 🎨 Fun Animations  
-
-<p align="center">
-  <!-- Waving hand gif (reliable source) -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving hand" />
-  <b>Thanks for visiting my profile 💜</b>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afrochic&show_icons=true&theme=radical" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrochic&layout=compact&theme=radical" height="180" />
-</p>
 
 ## 📈 Activity Graph
 
@@ -100,4 +96,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afrochic&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views" />
 </p>
-
