@@ -1,7 +1,7 @@
 <div align="center">  
 
   <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:1E90FF&height=200&section=header&text=Diana%20Musee&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20•%20Software%20Engineer%20•%20Developer&descSize=20&descAlignY=55" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:1E90FF&height=200&section=header&text=Diana%20Musee&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20•%20Software%20Engineer&descSize=20&descAlignY=55" />  
   
   <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
 
@@ -98,5 +98,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afrochic&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views" />
 </p>
+
 
 
